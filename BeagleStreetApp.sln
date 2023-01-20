@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleStreetApp", "BeagleStreetApp\BeagleStreetApp.csproj", "{69663337-B215-4B50-9E75-501626C30848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeagleStreetApp.Test", "BeagleStreetApp.Test\BeagleStreetApp.Test.csproj", "{C4EA07D3-2E7A-4A1E-A1A1-A5E808D3A5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleStreetApp.Test", "BeagleStreetApp.Test\BeagleStreetApp.Test.csproj", "{C4EA07D3-2E7A-4A1E-A1A1-A5E808D3A5E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
